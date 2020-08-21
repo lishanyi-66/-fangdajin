@@ -1,2 +1,1 @@
-你好呀
-hello word
+jQuery 实现放大镜效果
